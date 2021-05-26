@@ -1,0 +1,238 @@
+country,region,case,death
+United States of America,Americas,19346790,335789
+India,South-East Asia,10286709,148994
+Brazil,Americas,7619200,193875
+Russia,Europe,3186336,57555
+France,Europe,2576420,64254
+United Kingdom,Europe,2488784,73512
+Italy,Europe,2107166,74159
+Spain,Europe,1893502,50442
+Germany,Europe,1742661,33624
+Colombia,Americas,1626461,42909
+Argentina,Americas,1613928,43163
+Mexico,Americas,1413935,124897
+Turkey,Europe,1394314,20881
+Poland,Europe,1305774,28956
+Iran,Eastern Mediterranean,1225143,55223
+Ukraine,Europe,1064479,18680
+South Africa,Africa,1057561,28469
+Peru,Americas,1012614,37621
+Netherlands,Europe,797516,11439
+Indonesia,South-East Asia,743198,22138
+Czechia,Europe,732022,11711
+Belgium,Europe,646496,19528
+Romania,Europe,632263,15767
+Chile,Americas,608973,16608
+Iraq,Eastern Mediterranean,595291,12813
+Canada,Americas,572982,15472
+Bangladesh,South-East Asia,513510,7559
+Pakistan,Eastern Mediterranean,479715,10105
+Philippines,Western Pacific,474064,9244
+Switzerland,Europe,450075,7049
+Morocco,Eastern Mediterranean,439193,7388
+Sweden,Europe,437379,8727
+Portugal,Europe,413678,6906
+Israel,Europe,408277,3278
+Saudi Arabia,Eastern Mediterranean,362741,6223
+Austria,Europe,359362,6131
+Serbia,Europe,337923,3211
+Hungary,Europe,325278,9667
+Jordan,Eastern Mediterranean,294494,3834
+Nepal,South-East Asia,260593,1856
+Panama,Americas,242744,3975
+Japan,Western Pacific,234395,3460
+Georgia,Europe,228410,2528
+Azerbaijan,Europe,218700,2641
+Ecuador,Americas,212512,14034
+Croatia,Europe,212007,3961
+United Arab Emirates,Eastern Mediterranean,207822,669
+Bulgaria,Europe,202266,7576
+Kazakhstan,Europe,200443,2749
+Belarus,Europe,194284,1424
+Slovakia,Europe,184508,2250
+Lebanon,Eastern Mediterranean,181503,1455
+Dominican Rep.,Americas,170785,2414
+Costa Rica,Americas,168114,2171
+Denmark,Europe,163479,1298
+Armenia,Europe,158722,2818
+Bolivia,Americas,158372,9149
+Palestine,Eastern Mediterranean,155365,1529
+Kuwait,Eastern Mediterranean,150584,934
+Moldova,Europe,144818,2985
+Lithuania,Europe,143903,1589
+Qatar,Eastern Mediterranean,143834,245
+Tunisia,Eastern Mediterranean,139140,4676
+Greece,Europe,138850,4838
+Egypt,Eastern Mediterranean,138062,7631
+Guatemala,Americas,138012,4813
+Oman,Eastern Mediterranean,128867,1499
+Myanmar,South-East Asia,124630,2682
+Ethiopia,Africa,124264,1923
+Slovenia,Europe,123950,2842
+Honduras,Americas,121827,3130
+Venezuela,Americas,113121,1025
+Malaysia,Western Pacific,113010,471
+Bosnia and Herz.,Europe,110985,4050
+Paraguay,Americas,106958,2242
+Libya,Eastern Mediterranean,100277,1478
+Algeria,Africa,99610,2756
+China,Western Pacific,96762,4789
+Kenya,Africa,96458,1670
+Bahrain,Eastern Mediterranean,92675,352
+Ireland,Europe,91779,2237
+Nigeria,Africa,87510,1289
+Macedonia,Europe,83329,2503
+Kyrgyzstan,Europe,81156,1356
+Uzbekistan,Europe,77060,614
+Puerto Rico,Americas,76291,1503
+South Korea,Western Pacific,61769,917
+Singapore,Western Pacific,58599,29
+Albania,Europe,58316,1181
+Ghana,Africa,54771,335
+Afghanistan,Eastern Mediterranean,52513,2201
+Kosovo,Europe,51285,1325
+Norway,Europe,48278,436
+Montenegro,Europe,48231,683
+Luxembourg,Europe,46598,498
+El Salvador,Americas,45960,1336
+Sri Lanka,South-East Asia,43299,204
+Latvia,Europe,40904,635
+Finland,Europe,36107,561
+Uganda,Africa,35216,251
+Australia,Western Pacific,28408,909
+Estonia,Europe,28406,234
+Cameroon,Africa,26848,448
+Namibia,Africa,23941,205
+Sudan,Eastern Mediterranean,23316,1468
+Cyprus,Europe,22651,125
+Côte d’Ivoire,Africa,22250,137
+Zambia,Africa,20725,388
+Senegal,Africa,19140,410
+Mozambique,Africa,18642,166
+Uruguay,Americas,18480,174
+Madagascar,Africa,17714,261
+Angola,Africa,17553,405
+Dem. Rep. Congo,Africa,17374,591
+Fr. Polynesia,Western Pacific,16926,114
+Botswana,Africa,14025,40
+Zimbabwe,Africa,13867,363
+Maldives,South-East Asia,13757,48
+Eq. Guinea,Africa,13722,81
+Mauritania,Africa,13642,324
+Tajikistan,Europe,13182,89
+French Guiana,Americas,13166,71
+Jamaica,Americas,12827,302
+Malta,Europe,12774,219
+Cuba,Americas,11863,146
+Cabo Verde,Africa,11840,113
+Syria,Eastern Mediterranean,11434,711
+Belize,Americas,10724,242
+Haiti,Americas,10015,236
+Gabon,Africa,9571,64
+eSwatini,Africa,9358,206
+Réunion,Africa,9037,42
+Guadeloupe,Americas,8620,155
+Rwanda,Africa,8383,92
+Andorra,Europe,8049,84
+Bahamas,Americas,7871,170
+Guam,Western Pacific,7139,122
+Trinidad and Tobago,Americas,7132,126
+Mali,Africa,7090,269
+Thailand,South-East Asia,6884,61
+Burkina Faso,Africa,6707,85
+Malawi,Africa,6583,189
+Guyana,Americas,6319,164
+Congo,Africa,6200,100
+Suriname,Americas,6181,121
+Martinique,Americas,6091,43
+Mayotte,Africa,5890,55
+Djibouti,Eastern Mediterranean,5831,61
+Iceland,Europe,5754,29
+Aruba,Americas,5442,49
+Equatorial Guinea,Africa,5277,86
+Central African Rep.,Africa,4963,63
+Nicaragua,Americas,4829,165
+Somaliland,Eastern Mediterranean,4714,130
+Curaçao,Americas,4230,14
+Gambia,Africa,3800,124
+Togo,Africa,3633,68
+S. Sudan,Africa,3558,63
+Benin,Africa,3251,44
+Niger,Africa,3208,102
+Jersey,Europe,2726,42
+Lesotho,Africa,2577,50
+Sierra Leone,Africa,2560,76
+Guinea-Bissau,Africa,2447,45
+San Marino,Europe,2333,59
+Liechtenstein,Europe,2221,33
+Chad,Africa,2113,104
+Yemen,Eastern Mediterranean,2103,611
+U.S. Virgin Is.,Americas,2031,23
+Gibraltar,Europe,1973,6
+New Zealand,Western Pacific,1806,25
+Liberia,Africa,1800,83
+Vietnam,Western Pacific,1465,35
+Sint Maarten,Americas,1434,27
+Eritrea,Africa,1320,3
+Mongolia,Western Pacific,1215,0
+Sao Tome and Principe,Africa,1014,17
+Saint Martin,Americas,995,12
+Monaco,Europe,875,3
+Turks and Caicos Is.,Americas,874,6
+Burundi,Africa,822,2
+Papua New Guinea,Western Pacific,780,9
+Comoros,Africa,765,9
+Other,Other,745,13
+Bhutan,South-East Asia,670,0
+Faroe Is.,Europe,610,0
+Bermuda,Americas,604,10
+Mauritius,Africa,527,10
+Tanzania,Africa,509,21
+Cambodia,Western Pacific,378,0
+Isle of Man,Europe,377,25
+Barbados,Americas,372,7
+Saint Lucia,Americas,353,5
+Cayman Is.,Americas,330,2
+Guernsey,Europe,298,13
+Seychelles,Africa,267,0
+Saint Barthélemy,Americas,190,0
+Bonaire,Americas,165,3
+Antigua and Barbuda,Americas,159,5
+Brunei,Western Pacific,152,3
+Grenada,Americas,134,0
+N. Mariana Is.,Western Pacific,122,2
+Saint Vincent and the Grenadines,Americas,119,0
+Dominica,Americas,96,0
+British Virgin Is.,Americas,93,1
+Fiji,Western Pacific,49,2
+Timor-Leste,South-East Asia,44,0
+Lao People's Democratic Republic,Western Pacific,41,0
+New Caledonia,Western Pacific,38,0
+Saint Kitts and Nevis,Americas,32,0
+Falkland Is.,Americas,29,0
+Greenland,Europe,27,0
+Holy See,Europe,26,0
+Sint Eustatius,Americas,19,0
+Solomon Is.,Western Pacific,17,0
+Saint Pierre and Miquelon,Americas,16,0
+Anguilla,Americas,13,0
+Montserrat,Americas,13,1
+Saba,Americas,5,0
+Marshall Is.,Western Pacific,4,0
+Wallis and Futuna Is.,Western Pacific,4,0
+Vanuatu,Western Pacific,1,0
+American Samoa,Western Pacific,0,0
+Cook Is.,Western Pacific,0,0
+North Korea,South-East Asia,0,0
+Kiribati,Western Pacific,0,0
+Micronesia,Western Pacific,0,0
+Nauru,Western Pacific,0,0
+Niue,Western Pacific,0,0
+Palau,Western Pacific,0,0
+Pitcairn Is.,Western Pacific,0,0
+Saint Helena,Africa,0,0
+Samoa,Western Pacific,0,0
+Tokelau,Western Pacific,0,0
+Tonga,Western Pacific,0,0
+Turkmenistan,Europe,0,0
+Tuvalu,Western Pacific,0,0
